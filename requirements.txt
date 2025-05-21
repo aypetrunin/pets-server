@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+asyncpg
+asyncssh
+bcrypt
+python-dotenv
